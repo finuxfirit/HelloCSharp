@@ -1,0 +1,15 @@
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\bin\Debug\net6.0\HelloCSharp.exe
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\bin\Debug\net6.0\HelloCSharp.deps.json
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\bin\Debug\net6.0\HelloCSharp.runtimeconfig.json
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\bin\Debug\net6.0\HelloCSharp.dll
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\bin\Debug\net6.0\ref\HelloCSharp.dll
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\bin\Debug\net6.0\HelloCSharp.pdb
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.csproj.AssemblyReference.cache
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.AssemblyInfo.cs
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.dll
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\ref\HelloCSharp.dll
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.pdb
+C:\Users\Foxx\Documents\Repos\C#\HelloCSharp\obj\Debug\net6.0\HelloCSharp.genruntimeconfig.cache
