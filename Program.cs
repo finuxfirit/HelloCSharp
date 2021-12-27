@@ -4,6 +4,12 @@ namespace HelloWorld
 {
     class Program
     {
+        // A new method
+        static void myMethod()
+        {
+            Console.WriteLine("\nI am a new method");
+        }
+
         static void Main(string[] args)
         {
             // Let's print out a nice text
@@ -45,10 +51,13 @@ namespace HelloWorld
 
             // Do some magic
             Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
+
+            // Call our created method
+            myMethod();
+
+            // It's the end of our program
             Console.Write($"{Environment.NewLine}Press any key to exit...");
             Console.ReadKey(true);
-
-
         }
     }
 }
